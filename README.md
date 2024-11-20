@@ -53,5 +53,7 @@ npm run dev
 ```
 Open your browser and navigate 
 ## Screenshots
-
+![App Screenshot](/public/screenshot-for-readme-1.png)
+![App Screenshot](/public/screenshot-for-readme-2.png)
+![App Screenshot](/public/screenshot-for-readme-3.jpg)
 
