@@ -1,4 +1,4 @@
-<h1 align="center">React Admin Dashboard</h1>
+# React Admin Dashboard
 
 Welcome to the Admin Dashboard, a web application built using React and Vite. This project provides an intuitive interface to manage users, view product details, and perform administrative tasks such as CRUD operations, profile management, and analytics visualization.
 
@@ -15,6 +15,7 @@ Frontend: React, Vite
 State Management: Context API / Redux (if applicable)
 Styling: CSS / TailwindCSS / Material-UI (if applicable)
 Graphs and Charts: Libraries such as Chart.js / Recharts / ApexCharts (if applicable)
+
 📂 Project Structure
 graphql
 
@@ -24,23 +25,6 @@ Make sure you have the following installed:
 Node.js (v16+ recommended)
 npm
 
-Installation
-Clone the repository: 
-
-git clone https://github.com/AjayGurjar1/Admin_Dashboard.git
-
-cd Admin_Dashboard
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm run dev
-
-Open your browser and navigate to:
-
 ✨ Features Under Development
 
 -Enhanced user role-based access control (RBAC).
@@ -49,6 +33,25 @@ Open your browser and navigate to:
 
 -Advanced filtering and search functionality.
 
-![Demo App](/public/screenshot-for-readme-1.png)
-![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.jpg)
+
+## Installation
+Installation Clone the repository:
+
+```bash
+git clone https://github.com/AjayGurjar1/Admin_Dashboard.git
+```
+```bash
+cd Admin_Dashboard
+```
+Install dependencies:
+```bash
+npm install
+```
+Start the development server:
+```bash
+npm run dev
+```
+Open your browser and navigate 
+## Screenshots
+
+
