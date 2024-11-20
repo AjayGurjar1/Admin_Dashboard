@@ -33,6 +33,12 @@ npm
 
 -Advanced filtering and search functionality.
 
+## Deployment
+
+You can direct see website using this link- 
+
+## https://ajaydashboard1.netlify.app/
+
 
 ## Installation
 Installation Clone the repository:
